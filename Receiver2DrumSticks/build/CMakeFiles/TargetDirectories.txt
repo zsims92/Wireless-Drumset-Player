@@ -1,0 +1,1 @@
+/home/mfay/UNL/advembbedded/workspace/project_drummiest/communication/Receiver2DrumSticks/build/CMakeFiles/receiver.dir
